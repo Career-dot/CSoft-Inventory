@@ -315,7 +315,7 @@ function Suppliers() {
 
       <div className="supplier-stats">
 
-        <div className="supplier-stat-card">
+        <div className="card">
           <div className="stat-icon">
             <Users size={22} />
           </div>

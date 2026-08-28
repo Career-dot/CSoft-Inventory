@@ -3962,3 +3962,29 @@ tbody tr:hover {
   }
 
 }
+
+
+/* CSOFT LOGO - TOP SPACING */
+
+.sidebar-brand {
+  height: 100px;
+  padding-top: 18px;
+  padding-bottom: 12px;
+}
+/* =========================
+   DASHBOARD HEADER WHITE BACKGROUND
+========================= */
+
+.dashboard-header {
+  background: #ffffff;
+
+  padding: 24px 28px;
+
+  border-radius: 14px;
+
+  border: 1px solid #e8eaf2;
+
+  box-shadow: 0 4px 15px rgba(15, 23, 42, 0.04);
+
+  margin-bottom: 28px;
+}
