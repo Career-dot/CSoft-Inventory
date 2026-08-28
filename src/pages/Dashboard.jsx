@@ -20,6 +20,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
+import { Link } from "react-router-dom";
 
 import StatCard from "../components/StatCard";
 
@@ -249,12 +250,12 @@ function Dashboard() {
 
             </div>
 
-            <a
-              href="/low-stock"
+            <Link
+              to="/low-stock"
               className="dashboard-view-link"
             >
               View All
-            </a>
+            </Link>
 
           </div>
 
@@ -339,12 +340,12 @@ function Dashboard() {
 
             </div>
 
-            <a
-              href="/stock"
+            <Link
+              to="/stock"
               className="dashboard-view-link"
             >
               View All
-            </a>
+            </Link>
 
           </div>
 
@@ -430,12 +431,12 @@ function Dashboard() {
 
             </div>
 
-            <a
-              href="/warehouses"
+            <Link
+              to="/warehouses"
               className="dashboard-view-link"
             >
               Manage
-            </a>
+            </Link>
 
           </div>
 
