@@ -3988,3 +3988,15 @@ tbody tr:hover {
 
   margin-bottom: 28px;
 }
+.sidebar-bottom p {
+  margin: 18px 0 6px;
+  text-align: center;
+  font-size: 12px;
+  color: #94a3b8;
+  letter-spacing: 0.2px;
+}
+
+.sidebar-bottom p strong {
+  color: #64748b;
+  font-weight: 600;
+}

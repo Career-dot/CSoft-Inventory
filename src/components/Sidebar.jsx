@@ -143,8 +143,7 @@ function Sidebar({ open, onClose }) {
           </div>
 
         </div>
-
-        <p>© 2026 CSOFT</p>
+<p>Powered by <strong>CSOFT</strong></p>
 
       </div>
 
